@@ -4,7 +4,7 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Virtual env
+# Virtual environment
 venv/
 env/
 
@@ -15,8 +15,5 @@ Thumbs.db
 # IDE
 .vscode/
 
-# API keys
-
+# Config (API keys)
 src/config.py
-!assets/
-!screenshots/
