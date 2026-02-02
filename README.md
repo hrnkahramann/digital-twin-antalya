@@ -17,9 +17,3 @@ using **real-time weather data** and a **map-based visualization**.
 
 ---
 
-## 📦 Installation
-
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/USERNAME/digital-twin-antalya.git
-cd digital-twin-antalya
